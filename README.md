@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # [ARTTBOT](http://artt.bot/)
 
 [ArttBot](https://artt.bot) is a facebook messenger bot that does all things art
